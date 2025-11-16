@@ -131,7 +131,7 @@ A detailed assessment of major risks, their impact level, and mitigation strateg
 | Low Return on Investment (ROI) | Medium | Increase user adoption through training; continuous improvement post-launch; monitor usage metrics. |
 | Maintenance & Support Costs | Medium | Negotiate clear SLAs; define maintenance responsibilities; implement cost caps. |
 
-## 🛑 Top 5 Critical Risks – Narrative Summary
+## 🛑 Top 5 Critical Risks
 
 ### **1. System Downtime or Performance Failure (Score: 15)**
 This risk poses operational disruption during peak ordering hours. Downtime may block employees from placing orders before 11AM, directly affecting the business case. High-impact mitigation requires redundancy, auto-scaling servers, and proactive monitoring.
