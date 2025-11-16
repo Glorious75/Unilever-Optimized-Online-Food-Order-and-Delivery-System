@@ -160,4 +160,48 @@ The project’s success is continuously measured against **SMART objectives** an
 | Customer Complaint Volume | Complaint Log | Daily | < 1% of total orders | Canteen Support Team |
 | Order Fulfillment Accuracy | Weekly Audit | Weekly | 99% accuracy (correct dish, correct location) | Canteen Management |
 
-> **Note:** KPIs are monitored regularly to ensure the project aligns with business goals and maintains high operational standards.
+**Note:** KPIs are monitored regularly to ensure the project aligns with business goals and maintains high operational standards.
+
+## ✅ **F. Recommendation**
+Proceed with implementation due to high ROI, efficiency gains, and employee satisfaction benefits.
+
+# 🗂️ **RACI Matrix: Roles & Responsibilities**
+
+A **RACI (Responsible, Accountable, Consulted, Informed) Matrix** clarifies roles and responsibilities for key project activities and stakeholders.
+
+| Activity | Unilever Senior Management | Finance Department | HR Department | IT/Technology Department | Canteen Management / Menu Manager | Kitchen Chef & Staff | Delivery Personnel | Facilities Management | Employees / Canteen Users |
+|----------|----------------------------|------------------|---------------|--------------------------|---------------------------------|-------------------|-----------------|----------------------|---------------------------|
+| Project Funding & Approval | A | C | C | I | I | I | I | I | I |
+| Defining/Refining Business Requirements | C | I | C | C | A | C | I | C | R |
+| System Development & Deployment | I | I | I | A, R | C | I | I | I | I |
+| Payroll/Payment Integration & Testing | I | C | A | R | I | I | I | I | I |
+| Creating & Updating Daily Menu | I | I | I | C | A, R | C | I | I | C |
+| Order Processing & Inventory | I | I | I | I | A, R | C | C | I | I |
+| Training: Canteen Staff Workflow | I | I | C | C | A | R | R | I | I |
+| Training: Employee System Use | I | I | A | C | C | I | I | I | R |
+| Placing Online Orders | I | I | I | I | I | I | I | I | A, R |
+| Delivering Orders to Workstations | I | I | I | I | C | I | A, R | C | I |
+| Monitoring Productivity & ROI Metrics | A | R | C | I | C | I | I | I | I |
+| Defining Delivery Logistics & Flow | I | I | I | I | C | I | C | A, R | I
+
+# 🧩 ** System Features: Functional Requirements **
+
+## ⭐ Employee Features
+- View updated daily menu
+- Add/edit dishes before checkout
+- Order cut‑off at 11AM
+- Order tracking
+- Feedback module
+- Salary‑deduction enrollment
+
+## ⭐ Canteen Features
+- Menu updates by Menu Manager
+- View orders by employee
+- Automatic inventory aggregation
+- Delivery request management
+- Order status updates
+
+## ⭐ System Integrations
+- Payroll auto‑deduction
+- Secure login & permissions
+- Reporting dashboards
