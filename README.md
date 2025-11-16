@@ -18,4 +18,13 @@ This project provides a **complete digital transformation solution** a web‑bas
 
 Employees eat for only **10–15 minutes** but lose **1 hour** each day.
 
----
+# 🌟 **2. Future State Vision**
+A digital platform that provides:
+- Real‑time daily menu
+- Online meal pre‑ordering (cut‑off 11 AM)
+- Desk delivery by a meal deliverer
+- Inventory summary for canteen staff
+- Menu management for canteen team
+- Payroll integration for salary deductions
+- Feedback module for continuous improvement
+
