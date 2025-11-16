@@ -28,3 +28,22 @@ A digital platform that provides:
 - Payroll integration for salary deductions
 - Feedback module for continuous improvement
 
+# 👥 **3. Stakeholder Identification**
+**Primary Stakeholders**
+- Employees (end users)
+- Menu Manager (canteen staff)
+- Canteen Manager / Order Processor
+- Meal Deliverers
+- Payroll Department
+- Chef / Kitchen Team
+
+**Secondary Stakeholders**
+- HR Department
+- IT Support Team
+- Finance Team
+- Facilities / Admin
+- Senior Management
+- Business Analyst
+- Project Manager
+- QA/Testers
+
