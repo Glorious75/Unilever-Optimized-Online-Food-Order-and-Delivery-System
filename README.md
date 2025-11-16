@@ -184,24 +184,29 @@ A **RACI (Responsible, Accountable, Consulted, Informed) Matrix** clarifies role
 | Monitoring Productivity & ROI Metrics | A | R | C | I | C | I | I | I | I |
 | Defining Delivery Logistics & Flow | I | I | I | I | C | I | C | A, R | I
 
-# 🧩 ** System Features: Functional Requirements **
+# 🧩 ** System Features to be developed **
 
-## ⭐ Employee Features
-- View updated daily menu
-- Add/edit dishes before checkout
-- Order cut‑off at 11AM
-- Order tracking
-- Feedback module
-- Salary‑deduction enrollment
+## ⭐ Functional Requirements
 
-## ⭐ Canteen Features
-- Menu updates by Menu Manager
-- View orders by employee
-- Automatic inventory aggregation
-- Delivery request management
-- Order status updates
+| Feature Area               | Key Features |
+|----------------------------|--------------|
+| **Employee Features**      | - View updated daily menu<br>- Add/edit dishes before checkout<br>- Order cut‑off at 11AM<br>- Order tracking<br>- Feedback module<br>- Salary‑deduction enrollment |
+| **Canteen Features**       | - Menu updates by Menu Manager<br>- View orders by employee<br>- Automatic inventory aggregation<br>- Delivery request management<br>- Order status updates |
+| **System Integrations**    | - Payroll auto‑deduction<br>- Secure login & permissions<br>- Reporting dashboards |
 
-## ⭐ System Integrations
-- Payroll auto‑deduction
-- Secure login & permissions
-- Reporting dashboards
+## 🔹 Non-Functional Requirements (NFRs)
+
+| NFR Category               | Requirements |
+|----------------------------|--------------|
+| **Performance**            | - Fast response time (< 2s per action)<br>- Support up to 10,000 concurrent users<br>- Optimized database queries |
+| **Availability**           | - 99.9% system uptime<br>- Scheduled maintenance during off-peak hours<br>- Real-time monitoring and alerts |
+| **Scalability**            | - Horizontal & vertical scaling<br>- Cloud-based dynamic resource allocation |
+| **Adaptability**           | - Easy integration with new payment gateways or delivery services<br>- Configurable menus and promotions without downtime |
+| **Usability**              | - Intuitive, mobile-first UI<br>- Multi-language support<br>- Simple navigation for all users |
+| **Security**               | - HTTPS encryption & secure data storage<br>- Multi-factor authentication (MFA)<br>- Regular security audits and vulnerability testing |
+| **Maintainability**        | - Modular architecture for easy updates<br>- Clear developer documentation<br>- Automated testing & CI/CD pipelines |
+| **Auditability**           | - Comprehensive activity and transaction logging<br>- Regulatory compliance reporting<br>- Log retention for at least 12 months |
+| **Accessibility**          | - WCAG 2.1 AA compliance<br>- Screen reader & keyboard navigation support<br>- Alternative text for images |
+| **Disaster Recover**
+
+
