@@ -108,18 +108,43 @@ A web‑based system enabling:
 | **Phase 1: Discovery & Planning** | 4 Weeks | Requirements gathering, technical architecture design, UI/UX wireframes, development environment setup | Finalized requirements document, technical specification, UI/UX mockups, project plan |
 | **Phase 2: Development & Testing** | 8 Weeks | Backend & database development, frontend UI implementation, API integration, unit & integration testing | Functional test environment, ordering module, menu management module, integration test reports |
 | **Phase 3: Pilot Program** | 4 Weeks | Limited launch to one floor/department, collect feedback, refine system, staff training | Pilot launch report, enhanced system version, delivery process training |
-| **Phase 4: Full Rollout & Closure** | 4 Weeks | Company‑wide rollout, change management, training, documentation handover, project closure | Full system deployment, training materials, user manuals, project closure report |
+| **Phase 4: Full Rollout & Closure** | 4 Weeks | Company-wide rollout, change management, training, documentation handover, project closure | Full system deployment, training materials, user manuals, project closure report |
+| **Phase 5: Post-Implementation Support & Optimization** | 6 Weeks | System monitoring, bug fixes, user support, performance optimization, feature enhancements, usage analytics review | Stabilized system, optimization report, support model, enhancement backlog |
 
 ## ⚠️ **F. Risks & Mitigation**
-| Risk | Mitigation |
-|------|------------|
-| System downtime | Backup servers; monitoring |
-| Delivery delays | Route optimization |
-| Incorrect payroll deductions | Automated reconciliation |
-| Wrong orders | Confirmation & QA checks |
 
-## ✅ **F. Recommendation**
-Proceed with implementation due to high ROI, efficiency gains, and employee satisfaction benefits.
+A detailed assessment of major risks, their impact level, and mitigation strategies.
 
+| **Risk** | **Impact** | **Mitigation Strategy** |
+|----------|------------|--------------------------|
+| System Downtime or Performance Failure | High | Conduct load and stress testing; implement server redundancy; enable real-time monitoring and alerts. |
+| Data Security Breach | High | Implement data encryption, secure authentication, access controls, GDPR-compliant policies, and regular security audits. |
+| Integration Issues with Payroll | High | Early involvement of Payroll & IT teams; parallel testing before go‑live; create fallback reconciliation procedures. |
+| Delivery Delays | Medium | Implement delivery route optimization; assign backup deliverers; real-time tracking for escalations. |
+| Incorrect Payroll Deductions | High | Automated calculation checks; monthly reconciliation; exception reporting. |
+| Wrong or Missing Orders | Medium | Introduce order confirmation screens; enforce canteen-side QA checks; require delivery confirmation on closure. |
+| Inaccurate Menu or Order Data | Medium | Establish validation checks; approval workflow for menu updates; audit logs for changes. |
+| Staff Resistance to Change | Medium | Conduct awareness campaigns, hands‑on training, and phased adoption with user support. |
+| Scope Creep | High | Implement strict change-control procedures; freeze requirements post‑signoff; maintain a prioritised backlog. |
+| Budget Overruns | High | Maintain 10–15% contingency; milestone-based tracking; weekly financial reviews. |
+| Vendor Reliability Issues | High | Conduct vendor due diligence; define SLAs and penalties; maintain alternative vendor options. |
+| Low Return on Investment (ROI) | Medium | Increase user adoption through training; continuous improvement post-launch; monitor usage metrics. |
+| Maintenance & Support Costs | Medium | Negotiate clear SLAs; define maintenance responsibilities; implement cost caps. |
 
+## 🛑 Top 5 Critical Risks – Narrative Summary
+
+### **1. System Downtime or Performance Failure (Score: 15)**
+This risk poses operational disruption during peak ordering hours. Downtime may block employees from placing orders before 11AM, directly affecting the business case. High-impact mitigation requires redundancy, auto-scaling servers, and proactive monitoring.
+
+### **2. Payroll Integration Failure (Score: 15)**
+Integration errors may cause salary deduction conflicts, leading to employee dissatisfaction and financial inaccuracies. Early IT–Payroll collaboration and rigorous parallel testing are essential.
+
+### **3. Scope Creep (Score: 15)**
+Stakeholders may request additional features mid-development, affecting timelines and cost. Strict change-control processes, backlog prioritization, and PM enforcement are required.
+
+### **4. Budget Overruns (Score: 15)**
+Unexpected complexities or extended timelines may increase total project cost. A contingency budget (10–15%), milestone monitoring, and weekly financial reviews mitigate this.
+
+### **5. Staff Resistance to Change (Score: 12)**
+Employee adoption is critical for ROI. Low adoption reduces efficiency gains. Mitigation: strong change management, training, early communication, and support resources.
 
