@@ -148,3 +148,16 @@ Unexpected complexities or extended timelines may increase total project cost. A
 ### **5. Staff Resistance to Change (Score: 12)**
 Employee adoption is critical for ROI. Low adoption reduces efficiency gains. Mitigation: strong change management, training, early communication, and support resources.
 
+## 📊 G.   Monitoring & Evaluation 
+
+The project’s success is continuously measured against **SMART objectives** and **Key Performance Indicators (KPIs)** to ensure efficiency, user satisfaction, and operational excellence.
+
+| KPI | Measurement | Frequency | Target | Responsible Party |
+|-----|------------|----------|--------|-----------------|
+| Average Lunch Time | Weekly Survey / Spot Check | Weekly | < 25 minutes | Business Analyst |
+| Food Waste Percentage | Inventory Report | Daily / Weekly | 60% Reduction | Canteen Management |
+| User Adoption Rate | System Log-in / Order Count | Daily | 90% of eligible employees | System Administrator |
+| Customer Complaint Volume | Complaint Log | Daily | < 1% of total orders | Canteen Support Team |
+| Order Fulfillment Accuracy | Weekly Audit | Weekly | 99% accuracy (correct dish, correct location) | Canteen Management |
+
+> **Note:** KPIs are monitored regularly to ensure the project aligns with business goals and maintains high operational standards.
