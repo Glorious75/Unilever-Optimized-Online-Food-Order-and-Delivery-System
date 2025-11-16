@@ -209,4 +209,10 @@ A **RACI (Responsible, Accountable, Consulted, Informed) Matrix** clarifies role
 | **Accessibility**          | - WCAG 2.1 AA compliance<br>- Screen reader & keyboard navigation support<br>- Alternative text for images |
 | **Disaster Recover**       | - Daily backups of critical data<br>- Recovery Time Objective (RTO): 4 hours<br>- Recovery Point Objective (RPO): 1 hour<br>- Redundant servers &failover mechanisms |
 
+# 🚀 Future Process Flow using Swimlane Diagram  
+The diagram below illustrates the optimized future-state process for the Unilever Online Food Order & Delivery System.  
+
+It highlights clear responsibilities across **Employees**, **Canteen Manager**, **Menu manager**, **Chef/Kitchen**, **Delivery Team**, **System/DB** and **HR/Payroll System**,
+
+![Unilever Online food ordering_swimlane diagram](https://github.com/user-attachments/assets/cc9e3497-ed8c-4363-b275-a0591e0a065e)
 
