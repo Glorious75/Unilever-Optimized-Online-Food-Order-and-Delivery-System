@@ -184,7 +184,7 @@ A **RACI (Responsible, Accountable, Consulted, Informed) Matrix** clarifies role
 | Monitoring Productivity & ROI Metrics | A | R | C | I | C | I | I | I | I |
 | Defining Delivery Logistics & Flow | I | I | I | I | C | I | C | A, R | I
 
-# 🧩 ** System Features to be developed **
+# 🧩 System Features to be developed 
 
 ## ⭐ Functional Requirements
 
