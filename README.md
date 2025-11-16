@@ -207,6 +207,6 @@ A **RACI (Responsible, Accountable, Consulted, Informed) Matrix** clarifies role
 | **Maintainability**        | - Modular architecture for easy updates<br>- Clear developer documentation<br>- Automated testing & CI/CD pipelines |
 | **Auditability**           | - Comprehensive activity and transaction logging<br>- Regulatory compliance reporting<br>- Log retention for at least 12 months |
 | **Accessibility**          | - WCAG 2.1 AA compliance<br>- Screen reader & keyboard navigation support<br>- Alternative text for images |
-| **Disaster Recover**
+| **Disaster Recover**       | - Daily backups of critical data<br>- Recovery Time Objective (RTO): 4 hours<br>- Recovery Point Objective (RPO): 1 hour<br>- Redundant servers &failover mechanisms |
 
 
