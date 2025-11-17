@@ -2,7 +2,7 @@
 Comprehensive Business Analysis portfolio project detailing the full life cycle for the Optimized Online Food Order and Delivery System (CODS).
 
 # 📌 **Project Overview**
-Unilever, one of the world’s largest FMCG companies with approximately 1,500 employees spread across 12 floors in the UK office, faces serious inefficiencies in its internal canteen operations. Employees waste **30–35 minutes daily** queueing for lunch, leading to productivity loss and dissatisfaction.
+Unilever PLC, one of the world’s largest FMCG companies with approximately 1,500 employees spread across 12 floors in the UK office, faces serious inefficiencies in its internal canteen operations. Employees waste **30–35 minutes daily** queueing for lunch, leading to productivity loss and dissatisfaction.
 
 This project provides a **complete digital transformation solution** a web‑based Canteen Ordering & Delivery System. The solution enables pre‑ordering meals before 11 AM, desk delivery, payroll deductions, and automated inventory management.
 
@@ -163,7 +163,8 @@ The project’s success is continuously measured against **SMART objectives** an
 **Note:** KPIs are monitored regularly to ensure the project aligns with business goals and maintains high operational standards.
 
 ## ✅ **F. Recommendation**
-Proceed with implementation due to high ROI, efficiency gains, and employee satisfaction benefits.
+The Online Ordering and Delivery System is a strategic investment that aligns with modern workplace efficiency standards and directly responds to employee demand for better service. 
+By implementing this system, Unilever Plc will improve ROI, save costs, boost employee morale, and reclaim valuable productive time.
 
 # 🗂️ **RACI Matrix: Roles & Responsibilities**
 
@@ -207,7 +208,7 @@ A **RACI (Responsible, Accountable, Consulted, Informed) Matrix** clarifies role
 | **Maintainability**        | - Modular architecture for easy updates<br>- Clear developer documentation<br>- Automated testing & CI/CD pipelines |
 | **Auditability**           | - Comprehensive activity and transaction logging<br>- Regulatory compliance reporting<br>- Log retention for at least 12 months |
 | **Accessibility**          | - WCAG 2.1 AA compliance<br>- Screen reader & keyboard navigation support<br>- Alternative text for images |
-| **Disaster Recover**       | - Daily backups of critical data<br>- Recovery Time Objective (RTO): 4 hours<br>- Recovery Point Objective (RPO): 1 hour<br>- Redundant servers &failover mechanisms |
+| **Disaster Recovery**       | - Daily backups of critical data<br>- Recovery Time Objective (RTO): 4 hours<br>- Recovery Point Objective (RPO): 1 hour<br>- Redundant servers &failover mechanisms |
 
 # 🚀 Future Process Flow using Swimlane Diagram  
 The diagram below illustrates the optimized future-state process for the Unilever Online Food Order & Delivery System.  
