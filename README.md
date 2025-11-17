@@ -249,9 +249,6 @@ It highlights clear responsibilities across **Employees**, **Canteen Manager**, 
 
 👉 ## For full visibility of the project backlog, sprint board, and workflow tracking via the Jira Software board click the link below:
 
-[https://glorianjorteah.atlassian.net/jira/software/projects/UOOFODS/boards/35/backlog](https://glorianjorteah.atlassian.net/jira/software/projects/UOOFODS/boards/35/backlog)
-
-Or use the fully embedded clickable link:  
 [**Open UOOFODS Jira Backlog & Board**](https://glorianjorteah.atlassian.net/jira/software/projects/UOOFODS/boards/35/backlog)
 
 
