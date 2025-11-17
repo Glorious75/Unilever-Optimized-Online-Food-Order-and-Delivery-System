@@ -247,7 +247,7 @@ It highlights clear responsibilities across **Employees**, **Canteen Manager**, 
 
 # 📌 Unilever Optimizied Online Food Order & Delivery System (UOOFODS) Jira Project: Product Backlog & Agile Board
 
-👉 ## For full visibility of the project backlog, sprint board, and workflow tracking via the Jira Software board click the link below:
+👉 For full visibility of the project backlog, sprint board, and workflow tracking via the Jira Software board click the link below:
 
 [**Open UOOFODS Jira Backlog & Board**](https://glorianjorteah.atlassian.net/jira/software/projects/UOOFODS/boards/35/backlog)
 
