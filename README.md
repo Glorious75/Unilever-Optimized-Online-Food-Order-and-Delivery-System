@@ -249,6 +249,6 @@ It highlights clear responsibilities across **Employees**, **Canteen Manager**, 
 
 👉 [Open UOOFODS Jira Backlog & Board](https://otunbakunle2000.atlassian.net/jira/software/projects/UOOFODS/boards/67/backlog)
 
-[![Open Jira Backlog](https://img.shields.io/badge/Open-UOOFODS_Backlog-blue?style=flat-square)](https://otunbakunle2000.atlassian.net/jira/software/projects/UOOFODS/boards/67/backlog)
+
 
 
