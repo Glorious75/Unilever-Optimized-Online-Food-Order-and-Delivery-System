@@ -245,7 +245,7 @@ It highlights clear responsibilities across **Employees**, **Canteen Manager**, 
 | **Epic 8: System & Security** | Ensure secure access, role-based permissions, compliance, and operational performance | **US22:** As a User, I want secure login authentication. | - Login requires valid credentials and enforces password policy<br>- MFA available/required per policy<br>- Failed login attempts logged and rate-limited |
 |  |  | **US23:** As an Administrator, I want role-based access control. | - Roles defined (Employee, Menu Manager, Canteen Manager, Delivery, Payroll, Admin)<br>- Permissions enforced per role; unauthorised actions blocked and logged |
 
-📌 UOOFODS Jira Project — Backlog & Agile Board
+📌 Unilever Optimizied Online Food Order & Delivery System (UOOFODS) Jira Project — Backlog & Agile Board
 
 👉 [Open UOOFODS Jira Backlog & Board](https://otunbakunle2000.atlassian.net/jira/software/projects/UOOFODS/boards/67/backlog)
 
