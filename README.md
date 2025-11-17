@@ -216,3 +216,31 @@ It highlights clear responsibilities across **Employees**, **Canteen Manager**, 
 
 ![Unilever Online food ordering_swimlane diagram](https://github.com/user-attachments/assets/cc9e3497-ed8c-4363-b275-a0591e0a065e)
 
+# 🧾 TO-BE Requirements Translated into User Stories
+
+| **EPIC** | **Goal** | **User Story (ID)** | **Acceptance Criteria** |
+|---|---|---:|---|
+| **Epic 1: User Onboarding & Enrollment** | Enable employees to register, secure their account, and manage salary deduction enrollment | **US01:** As an Employee, I want to sign up and create a secure account. | - User can register with email/employee ID<br>- Password rules enforced (min length, complexity)<br>- Email/ID verification or confirmation notification sent |
+|  |  | **US02:** As an Employee, I want to enroll in salary deduction during sign-up. | - Salary deduction option visible during signup<br>- Enrollment flag sent to payroll system/API<br>- Employee receives confirmation of enrollment |
+|  |  | **US03:** As an Employee, I want to update or opt out of salary deductions. | - User can toggle deduction on/off in profile settings<br>- Payroll receives updated status within defined SLA<br>- UI shows current deduction status and last update timestamp |
+| **Epic 2: Menu Management** | Maintain accurate, timely, and authorised menu content | **US04:** As a Menu Manager, I want to upload the daily menu. | - Menu upload UI available to authorised users only<br>- Uploaded menu visible to employees within expected propagation time (< 2 min)<br>- Upload errors surface clear messages |
+|  |  | **US05:** As a Menu Manager, I want to update pricing. | - Price edit UI for authorised users<br>- Price updates reflect instantly to employees<br>- System logs price changes with user and timestamp |
+|  |  | **US06:** As a Menu Manager, I want to edit or remove menu items. | - Manager can edit/delete items and save changes<br>- Deleted items no longer appear to employees immediately<br>- Change history/audit trail recorded |
+| **Epic 3: Order Placement** | Allow employees to view menus and place orders with customization and clear cut-off rules | **US07:** As an Employee, I want to view today’s menu. | - Today's menu loads within 2s<br>- Menu shows item name, image, price, dietary info |
+|  |  | **US08:** As an Employee, I want to select dishes. | - Items can be added to cart with quantity and options<br>- Cart updates totals in real time |
+|  |  | **US09:** As an Employee, I want to edit or remove dishes before checkout. | - User can edit quantities/remove items from cart before checkout<br>- Totals and taxes update correctly after edits |
+|  |  | **US10:** As an Employee, I want ordering to close at 11AM. | - System enforces 11:00 cut-off (timezone-aware)<br>- Attempts after cut-off are blocked with explanatory message<br>- Users receive reminders/notifications before cut-off (optional) |
+| **Epic 4: Order Processing** | Enable canteen staff to receive, prioritise and manage orders and inventory | **US11:** As a Canteen Manager, I want to view all employee orders. | - Orders listed with employee, time, items, and status<br>- Filters for date, department, and status available |
+|  |  | **US12:** As a Canteen Manager, I want to generate an aggregated inventory list. | - System aggregates quantities by ingredient/item for the shift/day<br>- Inventory export available (CSV/Excel/PDF) |
+|  |  | **US13:** As a Canteen Manager, I want to update order status. | - Manager can set statuses (Received → Preparing → Ready → Dispatched)<br>- Status changes trigger notifications to employees and delivery staff |
+| **Epic 5: Delivery** | Ensure timely, trackable delivery or pickup and clear handover for deliverers | **US14:** As Delivery Personnel, I want to view assigned orders. | - Delivery app/list auto-populates assigned orders with pickup location and time window<br>- Order details include employee contact/pickup point |
+|  |  | **US15:** As Delivery Personnel, I want to mark deliveries as completed. | - Deliverer can mark order delivered with timestamp and optional proof (photo/signature)<br>- Delivery status updates visible to employee and canteen |
+|  |  | **US16:** As an Employee, I want real-time delivery tracking. | - Tracking shows statuses: Preparing → Out for Delivery → Delivered<br>- Estimated time of arrival (ETA) made available where possible |
+| **Epic 6: Payroll Integration** | Automate and reconcile salary deductions for ordered meals | **US17:** As Payroll Staff, I want monthly order totals. | - System produces monthly summary per employee and aggregated totals<br>- Reports exportable in payroll-ready format (CSV/Excel) |
+|  |  | **US18:** As an Employee, I want automatic salary deductions. | - Orders eligible for deduction tagged correctly<br>- Monthly totals align with deduction amounts shown to employee pre-payroll run |
+|  |  | **US19:** As Payroll Staff, I want reconciliation reports. | - Reconciliation report shows orders, deductions, adjustments, and exceptions<br>- Discrepancies flagged for review |
+| **Epic 7: Feedback & Experience** | Capture service feedback and deliver actionable insights to improve quality | **US20:** As an Employee, I want to submit feedback. | - Feedback/rating available after delivery or pickup<br>- Confirmation message shown after submission |
+|  |  | **US21:** As a Canteen Manager, I want to review feedback. | - Feedback dashboard lists ratings, comments, and trends<br>- Filters for date, meal, rating available |
+| **Epic 8: System & Security** | Ensure secure access, role-based permissions, compliance, and operational performance | **US22:** As a User, I want secure login authentication. | - Login requires valid credentials and enforces password policy<br>- MFA available/required per policy<br>- Failed login attempts logged and rate-limited |
+|  |  | **US23:** As an Administrator, I want role-based access control. | - Roles defined (Employee, Menu Manager, Canteen Manager, Delivery, Payroll, Admin)<br>- Permissions enforced per role; unauthorised actions blocked and logged |
+
