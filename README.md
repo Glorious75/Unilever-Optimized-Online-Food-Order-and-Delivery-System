@@ -255,6 +255,8 @@ It highlights clear responsibilities across **Employees**, **Canteen Manager**, 
 
 ![Unilever Online Food Order   Delivery_2](https://github.com/user-attachments/assets/d81cec6f-974b-4dd9-a71c-d4bbfa6fb2e7)
 
+![Unilever Optimized Online Food order   Delivery_ Board](https://github.com/user-attachments/assets/cf774d48-2e5f-4b0e-b9d4-f5cc59106355)
+
 
 # 📌  Recommendations & Conclusion
 
