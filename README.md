@@ -251,6 +251,11 @@ It highlights clear responsibilities across **Employees**, **Canteen Manager**, 
 
 [**Open UOOFODS Jira Backlog & Board**](https://glorianjorteah.atlassian.net/jira/software/projects/UOOFODS/boards/35/backlog)
 
+![Unilever Online Food order   delivery _ 1](https://github.com/user-attachments/assets/0159aae9-e5b8-49e7-8b7b-5b0d450f9202)
+
+![Unilever Online Food Order   Delivery_2](https://github.com/user-attachments/assets/d81cec6f-974b-4dd9-a71c-d4bbfa6fb2e7)
+
+
 # 📌  Recommendations & Conclusion
 
 ## 🔧 Recommendations
